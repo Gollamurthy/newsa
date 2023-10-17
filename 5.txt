@@ -1,3 +1,7 @@
 this is my first file
 new line is updated thi file in dev branch one
-and this is updated in cli mode
+and this is updated in cli mod
+this file is modified in dev2 branch
+thos file is merged to master 
+while mergeing the file we faced the confilct 
+we have to remove  that conflict using the mergetool command
