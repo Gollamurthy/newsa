@@ -1,1 +1,5 @@
 this is my first file
+this file is modified in dev2 branch
+thos file is merged to master 
+while mergeing the file we faced the confilct 
+we have to remove  that conflict using the mergetool command
